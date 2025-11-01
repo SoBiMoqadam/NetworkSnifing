@@ -96,7 +96,7 @@ This will display the ASCII banner and a summary table directly in your console.
 You can place your terminal screenshot or banner image here 👇  
 (replace the file name once you upload it to the repo)
 
-![Terminal Preview](./terminal_with_banner.png)
+![Terminal Preview](./NetworkSnifer.png)
 
 ---
 
