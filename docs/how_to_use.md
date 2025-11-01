@@ -1,0 +1,1 @@
+See README.md for quick start. Add your own pcap files into the examples/ folder and run the summary tool.
